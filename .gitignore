@@ -1,0 +1,25 @@
+*.pyc
+*.log
+*.egg
+*.egg-info
+*.swp
+*.bak
+*.db
+*.orig
+build
+_build
+dist
+.DS_Store
+.coverage
+.hgignore
+.tox
+.ropeproject
+
+.idea/
+.eggs/
+.cache/
+
+# WebDAV remote filesystem
+.DAV
+.project
+.pydevproject
